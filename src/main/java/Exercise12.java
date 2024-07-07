@@ -11,7 +11,7 @@ public class Exercise12 {
     var n3 = sc.nextInt();
 
     int media = (n1 + n2 + n3) /3;
-    close.Scanner();
+
 
     System.out.println("\n your media: " + media);
     System.exit(0);
